@@ -20,15 +20,15 @@ You don’t need to exactly produce the sample output given here, but you need t
 
 Different data inputs will be used to test you program besides the example below and it can produce N assembly lines.
 
-####Required
+#### Required
 - Java 11+
 - Maven 3.6.3
 
-####Maven Package
+#### Maven Package
 ```
 mvn clear package
 ```
-####Java Exec
+#### Java Exec
 ```
 java -jar target/assembly-line-1.0-SNAPSHOT.jar
 ```
